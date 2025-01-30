@@ -5,7 +5,7 @@ Welcome to **DeepDive AI - PaperInsight**, an innovative application designed to
 ![DeepDive AI - PaperInsight](https://github.com/user-attachments/assets/e6fc7951-cc39-4ead-9250-df9161826651)
 
 ## Application Link
-![DeepDive AI app](https://deepdive-ai-ojfvsfc5prlss5v87ngrok.streamlit.app/)
+[DeepDive AI app](https://deepdive-ai-ojfvsfc5prlss5v87ngrok.streamlit.app/)
 
 ## Table of Contents
 
