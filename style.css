@@ -1,0 +1,53 @@
+/* style.css */
+body {
+    background-color: #f0f2f5; /* Light background color */
+}
+
+.stButton>button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.stTextInput>div>input {
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.stTextInput>div>label {
+    color: #333; /* Darker label color */
+}
+
+.stMarkdown {
+    color: #333; /* Darker text color for markdown */
+}
+
+.stSpinner {
+    color: #4CAF50; /* Spinner color */
+}
+
+/* Custom styles for chatbot responses */
+.chatbot-response {
+    color: #000; /* Black text for light mode */
+    background-color: #fff; /* White background for light mode */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.chatbot-response-dark {
+    color: #fff; /* White text for dark mode */
+    background-color: #333; /* Dark background for dark mode */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
