@@ -8,10 +8,6 @@ Welcome to **DeepDive AI - PaperInsight**, an innovative application designed to
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
