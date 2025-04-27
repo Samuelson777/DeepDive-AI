@@ -27,3 +27,6 @@ Welcome to **DeepDive AI - PaperInsight**, an innovative application designed to
 - **Text Extraction**: PyPDF2
 - **LLM Integration**: Google Generative AI
 - **Environment Management**: python-dotenv
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/DeepDive-AI/blob/main/LICENSE) file for details.
